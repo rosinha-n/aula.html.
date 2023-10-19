@@ -1,0 +1,25 @@
+h1{
+    color: pink;
+}
+h3{
+    color: green;
+}
+th{
+    color: red;
+    background-color: pink;
+}
+table{background-color: brown;
+    position: relative;
+    left: 450px;
+    bottom: 200px;
+    width: 400px;
+    height: 200px;
+    font-size: xx-large ;
+}
+td{
+    color: white;
+    background-color: green;
+}
+body{
+    background-color: coral;
+}
